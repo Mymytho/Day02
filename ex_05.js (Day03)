@@ -1,0 +1,6 @@
+function getBasketContent(){
+let fruits = ["strawberry","strawberry","strawberry","apple","apple","lime","lime","peach","pear","pear"];
+var N= fruits.length
+console.log (N + " fruit(s) selected")
+return fruits
+}
