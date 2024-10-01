@@ -1,0 +1,15 @@
+fruits = ["Blackberries", "Apple", "Banana", "Mango", "Peaches", "Kiwi"];
+
+function getIndexFromName(quelfruit) {
+
+let indexx = fruits.indexOf(quelfruit)
+if (indexx == -1) { 
+return null
+}
+return (fruits.indexOf(quelfruit))
+}
+
+let quelfruit = "Kiwi"
+// let getIndexFromName 
+
+displayResult(getIndexFromName (quelfruit))
