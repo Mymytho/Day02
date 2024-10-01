@@ -1,0 +1,9 @@
+function sayHi () {
+console.log ("Hi !")
+}
+
+sayHi ()
+sayHi ()
+
+// DO NOT TOUCH, we are cooking magic potion...
+applyMagicSauce()
